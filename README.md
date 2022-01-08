@@ -1,5 +1,5 @@
 - 👋 Olá, eu sou @micaelsv;
-- 👀 Eu estudando atualmente: HTML5, CSS3 E JS;
+- 👀 Estudando atualmente: HTML5, CSS3 E JS;
 - 🌱 Estou cursando Desenvolvimento de Sistemas (ETEC Machado de Assis);
 - 💞️ Procuro me aperfeiçoar em desenvolvimento web;
 
