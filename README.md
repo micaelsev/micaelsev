@@ -1,16 +1,10 @@
-- 👋 Olá, eu sou @micaelsv;
-- 👀 Estou estudando atualmente: HTML5, CSS3 E JS;
-- 🌱 Estou cursando Desenvolvimento de Sistemas (ETEC Machado de Assis);
-- 💞️ Procuro me aperfeiçoar em Desenvolvimento Front-End;
-
-<!---
-micaelsev/micaelsev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+  Olá, me chamo Micael e atualmente estudo HTML5, CSS3 e JavaScrip com objetivo
+de me aperfeiçoar na área de desenvolvimento web e conseguir desenvolver aplicações 
+cada vez mais bem estrututuradas, simples e objetivas para todas as pessoas.
 
 <div align="left">
   <a href="https://github.com/micaelsev">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=micaelsev&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=micaelsev&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
 ### Tecnologias que tenho conhecimento
