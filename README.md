@@ -1,6 +1,7 @@
-  Olá, me chamo Micael e atualmente estudo HTML5, CSS3 e JavaScrip com objetivo
-de me aperfeiçoar na área de desenvolvimento web e conseguir desenvolver aplicações 
-cada vez mais bem estrututuradas, simples e objetivas para todas as pessoas.
+  Olá, me chamo Micael e atualmente estudo HTML5, CSS3 e JavaScrip com objetivo<br>
+de me aperfeiçoar na área de desenvolvimento web e conseguir desenvolver aplicações<br> 
+cada vez mais bem estrututuradas, simples e objetivas para todas as pessoas.<br>
+if love: return true
 
 <div align="left">
   <a href="https://github.com/micaelsev">
