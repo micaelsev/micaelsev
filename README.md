@@ -25,10 +25,8 @@
 </div><br/>
 
 <div style="display: inline_block" align="center">
-
-    <img align="left" alt="micaelsev-HTML" height="30" width="auto" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
   
-  <img align="left" alt="micaelsev-Js" height="30" width="auto" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
+  <img align="left" alt="micaelsev-Js" height="30" width="auto" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
 
 </div><br/>
 ---
