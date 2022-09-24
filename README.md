@@ -24,7 +24,7 @@
   
 </div><br/>
 
-<div>
+<div style="display: inline_block" align="center">
 
     <img align="left" alt="micaelsev-HTML" height="30" width="auto" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
   
