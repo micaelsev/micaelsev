@@ -13,7 +13,7 @@
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=micaelsev&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
-### Linguagens que tenho conhecimento
+### Linguagens que utilizo
 <div style="display: block" align="center">
   
   <img align="left" alt="micaelsev-HTML" height="30" width="auto" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
@@ -25,6 +25,7 @@
 </div><br/>
    
 ---
+### Tecnologias que utilizo
    
 <div style="display: block" align="center"> 
    
