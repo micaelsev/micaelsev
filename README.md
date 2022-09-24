@@ -14,7 +14,7 @@
 </div>
 
 ### Tecnologias que tenho conhecimento
-<div style="display: inline_block" align="center">
+<div style="display: inline_block" align="left">
   
   <img align="left" alt="micaelsev-HTML" height="30" width="auto" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   
