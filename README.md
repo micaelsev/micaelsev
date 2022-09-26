@@ -5,8 +5,7 @@
    simples e objetivas para todas as pessoas. <br>
 </p>
 
-###
-
+---
 <div align="left">
   <a href="https://github.com/micaelsev">
   <a href="https://github.com/micaelsev"><img width="450rem" src="https://github-readme-stats.vercel.app/api?username=micaelsev&ImKunYoung&count_private=true&show_icons=true"/></a></p>
@@ -14,7 +13,7 @@
   <a href="https://github.com/micaelsev"><img width="450rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=micaelsev&ImKunYoung&layout=compact&langs_count=10"/></a>&nbsp
 </div>
 
-
+---
 ### Linguagens que uso
 <div style="display: block" align="center">
   
@@ -25,7 +24,7 @@
   <img align="left" alt="micaelsev-Js" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 
 </div><br/>
-   
+
 ### Softwares que uso
 <div style="display: block" align="center"> 
    
