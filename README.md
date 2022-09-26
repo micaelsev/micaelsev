@@ -36,5 +36,7 @@
 </div><br/>
 
 ### Mídias Sociais
-   <img align="left" alt="micaelsev-fig" height="30" width="30" href="https://www.linkedin.com/in/micael-severino-53a65621b/" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
+   <a align="left" href="https://www.linkedin.com/in/micael-severino-53a65621b/"> 
+   <img alt="micaelsev-fig" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
+   </a>
 
