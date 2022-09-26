@@ -5,6 +5,10 @@
    simples e objetivas para todas as pessoas. <br>
 </p>
 
+<p>
+   <strong>if love: return true</strong>
+</p>
+
 ---
 <div align="left">
   <a href="https://github.com/micaelsev">
