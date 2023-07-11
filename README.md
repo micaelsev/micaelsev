@@ -18,7 +18,7 @@
 
 ---
 ### Mídias Sociais
-   <a align="left" href="https://www.linkedin.com/in/micael-severino-53a65621b/"> 
+   <a align="left" href="https://www.linkedin.com/in/micael-s-severino/"> 
    <img alt="micaelsev-fig" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
    </a>
 
