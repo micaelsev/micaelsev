@@ -1,8 +1,6 @@
 <p align="left" width="20ch">
-   Olá, me chamo <strong>Micael</strong> e atualmente estudo <strong>HTML</strong>, <strong>CSS</strong> e <strong>JS</strong> <br> 
-   com objetivo de me <strong>aperfeiçoar</strong> na área de desenvolvimento web <br> 
-   e conseguir desenvolver aplicações cada vez mais bem estrututuradas, <br>
-   simples e objetivas para todas as pessoas. <br>
+   Olá👋 <br>
+   Eu me chamo Micael e estudo UI Design e Front-End.
 </p>
 
 <p>
